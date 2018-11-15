@@ -109,9 +109,3 @@ with tf.Session() as sess:
 
     plt.legend(loc='upper left')
     plt.show()
-
-
-    
-
-
-
